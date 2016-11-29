@@ -403,7 +403,7 @@
 
     <deployments>
         <deployment name="test.war" runtime-name="test.war">
-            <content sha1="5e55aa1db1b3db71e243268b95d11a7d3ba8fcd1"/>
+            <content sha1="be1d7aa0e3791513575931baf92b2f38d222478a"/>
         </deployment>
     </deployments>
 </server>

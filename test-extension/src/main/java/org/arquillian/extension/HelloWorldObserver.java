@@ -18,6 +18,6 @@ public class HelloWorldObserver {
 
    public void foo(@Observes BeforeSuite beforeSuite) {
 
-      logger.log(Level.INFO, "Dipak");
+      logger.log(Level.INFO, "Hello Hemani");
    }
 }
