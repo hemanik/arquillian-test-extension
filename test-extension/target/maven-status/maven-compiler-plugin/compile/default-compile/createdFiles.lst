@@ -1,0 +1,3 @@
+org/arquillian/extension/HelloWorldExtension.class
+org/arquillian/extension/HelloWorldObserver.class
+TestHello.class
